@@ -7,7 +7,7 @@ import cv2
 # initialize the client
 CLIENT = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
-    api_key="itatZcph2BZkzZWWLVMp"
+    api_key="censored"
 )
 
 # load the video
